@@ -6,7 +6,7 @@
 
 ## 2023, Apr
 
-- [Coding challenge](https://github.com/NoriSte/faceit-frontend-coding-challenge)
+- [Coding challenge](https://github.com/NoriSte/faceit-frontend-coding-challenge/blob/noriste-frontend-coding-challenge-2023)
 
 ## 2021, June
 
