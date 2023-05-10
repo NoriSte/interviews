@@ -4,7 +4,7 @@
 
 - [Application assignment](https://jsfiddle.net/sfn6hcj1/48/)
 - [Live interview implementation](./assets/2023-dailydev/downvote.jpg)
-- [System design interview](./assets/2023-dailydev/downvote.jpg)
+- [System design interview](./assets/2023-infinitas/autocomplete.png)
 - [Coding challenge](./assets/2023-humanitech/coding-challenge.md)
 ## 2023, Apr
 
